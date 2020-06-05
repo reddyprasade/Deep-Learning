@@ -3,3 +3,10 @@ Deep learning (also known as deep structured learning or hierarchical learning) 
 
 Artificial Neural Networks (ANNs) were inspired by information processing and distributed communication nodes in biological systems. ANNs have various differences from biological brains. Specifically, neural networks tend to be static and symbolic, while the biological brain of most living organisms is dynamic (plastic) and analog
 
+**Input Images**
+
+![](https://lh3.googleusercontent.com/-DSEAJ--cNFc/XtnlB3Y1DlI/AAAAAAAAoY4/3xHa-eGLuFgSVRQSNCzWOcLgwsIyYPmTQCK8BGAsYHg/s0/IMG-20200122-WA0013.jpg)
+
+**Output Images:**
+
+![](img/download.png)
