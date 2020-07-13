@@ -10,3 +10,11 @@ Artificial Neural Networks (ANNs) were inspired by information processing and di
 **Output Images:**
 
 ![](img/download.png)
+
+# Training 
+![](https://github.com/reddyprasade/Deep-Learning/blob/master/img/epoch_accuracy.svg)
+![](https://github.com/reddyprasade/Deep-Learning/blob/master/img/epoch_accuracy%20(1).svg)
+
+# Loss 
+![](https://github.com/reddyprasade/Deep-Learning/blob/master/img/epoch_loss.svg)
+![](https://github.com/reddyprasade/Deep-Learning/blob/master/img/epoch_loss%20(1).svg)
